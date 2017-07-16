@@ -99,7 +99,15 @@ var projects = {
                "images/rsd-dashboard-1000large.jpg 1000w"],
       url: "https://drive.google.com/drive/folders/0BxJeGYCNyrP5MTBpdng3cS1CUVk?usp=sharing",
       dates: "2016",
-      description: ["This is the folder where I store a copy of all of the Google Apps projects I've built. Feel free to check it out!"]
+      description: "This is the folder where I store a copy of all of the Google Apps projects I've built. Feel free to check it out!"
+    },{
+      title: "Resume",
+      images: ["images/resume.png",
+               "images/resume.png",
+               "images/resume.png"],
+      url: "https://drive.google.com/open?id=0BxJeGYCNyrP5bVB4TWk3Rng3X3M",
+      dates: "2017",
+      description: "Here's a downloadable copy of my resume"
     }
   ]
 };

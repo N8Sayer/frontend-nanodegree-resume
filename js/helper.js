@@ -40,7 +40,7 @@ var HTMLprojectStart = '<div class="project-entry"></div>';
 var HTMLprojectTitle = '<a href="#" target="_blank">%data%</a>';
 var HTMLprojectDates = '<div class="date-text">%data%</div>';
 var HTMLprojectDescription = '<p><br>%data%</p>';
-var HTMLprojectImage ='<a href="%href%"' +
+var HTMLprojectImage ='<a href="%href%">' +
                         '<picture>' +
                             '<source media="(min-width: 900px)"' +
                                     'srcset="%large%">' +
